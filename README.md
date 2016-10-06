@@ -1,6 +1,8 @@
 # MultiCloud
 Little project to become acquainted with Java8. Be able to search and upload files to multiple file hosting cloud providers
 
+Will later port it via Django to create a browser based version.
+
 The plan is to create a simple GUI that lets the user log in to their individual accounts and store
 them in a salted and hashed manner on the machine for "security"
 
@@ -20,4 +22,8 @@ Google-Drive
 
 Box
 
-The idea is to use JavaFX, Java8 and the HTTP APIs to make it all work. Big learning experience.
+The idea is to use JavaFX, Java8 and the HTTP APIs to make it all work and then work it to the "web". Big learning experience.
+
+Another idea is to have features such as: 
+- redundant file removal
+- file compression for storage based files which are "unzipped" for viewing with different compression levels for different file priorities.
