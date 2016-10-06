@@ -27,3 +27,4 @@ The idea is to use JavaFX, Java8 and the HTTP APIs to make it all work and then 
 Another idea is to have features such as: 
 - redundant file removal
 - file compression for storage based files which are "unzipped" for viewing with different compression levels for different file priorities.
+- recursively detect the sizes of the directories and the files.
