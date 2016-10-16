@@ -31,3 +31,6 @@ Another idea is to have features such as:
 - file comments so that each file has "metadata" explaining what it is if necessary
 
 Django based Python...
+
+
+Start off without a framework, write everything in Python then refactor it into Django. This way I will learn how it works. Initially start off everything as a simple CLI tool then will then grow into a webapp
