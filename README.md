@@ -28,3 +28,6 @@ Another idea is to have features such as:
 - redundant file removal
 - file compression for storage based files which are "unzipped" for viewing with different compression levels for different file priorities.
 - recursively detect the sizes of the directories and the files.
+- file comments so that each file has "metadata" explaining what it is if necessary
+
+Django based Python...
