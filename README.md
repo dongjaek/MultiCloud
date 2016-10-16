@@ -34,3 +34,7 @@ Django based Python...
 
 
 Start off without a framework, write everything in Python then refactor it into Django. This way I will learn how it works. Initially start off everything as a simple CLI tool then will then grow into a webapp
+
+
+Use PEP 8 
+https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
